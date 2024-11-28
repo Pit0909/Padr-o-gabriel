@@ -61,7 +61,6 @@ javac -d bin src/com/example/transport/*.java
 java -cp bin com.example.transport.Main
 
 
-As alterações foram realizadas para melhorar a fluidez e variar a escolha das palavras, mantendo a clareza e o significado original.
 
 
 
